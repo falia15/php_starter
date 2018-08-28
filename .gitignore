@@ -1,0 +1,4 @@
+composer.lock
+vendor/
+src/config/config.json
+src/sonfig/config.exemple.json
